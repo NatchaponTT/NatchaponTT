@@ -1,9 +1,6 @@
 Hi 👋 My name is Natchapon sinthong
 ===================================
 
-Student - Bangkok University
-----------------------------
-
 I Interested in system development With basic knowledge in developing both programs, web and mobile, I am ready to Face challenges and grow at every opportunity.
 
 * 🌍  I'm based in Thailand
